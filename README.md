@@ -1,9 +1,7 @@
 # 💫 >Hi 👋, I'm Josu <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 __<h3 align="center">A passionate Full-Stack developer from Spain</h3>__
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://es.linkedin.com/pub/dir/Francisco+José/Fernández+Álvarez/es-0-España)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fferalv454@iesalmudeyne.es@gmail.com)
+
 ## 💻 Tech Stack:
 + ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 + ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -13,8 +11,8 @@ __<h3 align="center">A passionate Full-Stack developer from Spain</h3>__
 + ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Fferalv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fferalv&layout=compact&theme=github_dark)
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fferalv&layout=compact&theme=github_dark"/>
+![J0suuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=J0suuuu&layout=compact&theme=github_dark)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0suuuu&layout=compact&theme=github_dark"/>
 </div>
 
 ## 🏐Hobbies
